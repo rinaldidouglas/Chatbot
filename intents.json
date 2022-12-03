@@ -1,0 +1,41 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "estudar_exterior",
+    "patterns":["Quero estudar no exterior","Como faço para estudar no exterior", "dupla diplomação"],
+    "responses": ["O Centro Universitário FEI mantém convênios de colaboração com instituições estrangeiras permitindo que a comunidade acadêmica tenha substanciais experiências no exterior. \n Para mais informaçoes entre em contato com a secretaria ou em nosso site"]
+  },
+  { "tag": "idiomas",
+  "patterns":["Quero estudar novos idiomas","Quero aprender uma nova lingua", "Curso de idiomas"],
+  "responses": ["O centreo Universitário FEI possui parceria com a Life Idiomas, contendo um catalo de cursos de idioma, desde ingles a chines, para mais informaçoes entre em contato com a Life Idiomas ou pergunte por life idiomas em nosso chat!"]
+  },
+  { "tag": "life_idiomas",
+  "patterns":["life idiomas", "Life Idiomas"],
+  "responses": ["A life idiomas é a escola de línguas parceira da FEI, para se informar sobre valores e disponibilidades de turmas ligue:(11) 95579-1020 ou entre em nosso site:https://lifeidiomas.com.br/"]
+  },
+  { "tag": "intercambio",
+  "patterns":["Como faço um intercambio, Quero fazer um intercambio"],
+  "responses": ["Podem se candidatar aos programas de intercâmbio os alunos regularmente matriculados nos cursos de graduação e pós-graduação do Centro Universitário FEI, campi São Bernardo do Campo e São Paulo.\n\n  O candidato a ser selecionado e indicado pelo Centro Universitário FEI à instituição anfitriã deverá preencher, obrigatoriamente, os seguintes requisitos:\n\n - Estar regularmente matriculado no Centro Universitário FEI;\n\n - Estar em dia com as obrigações assumidas no Contrato de Prestação de Serviços Educacionais assinado com a FEI;\n\n - Ter integralizado no mínimo 30% do currículo previsto para seu curso, no momento do início previsto da viagem de estudos;\n\n - Ter média aritmética de todas as disciplinas cursadas igual ou maior a 6,0 (seis);Manifestar compromisso de retornar ao Brasil após o período de estudos no exterior para conclusão dos estudos de graduação no Centro Universitário FEI;\n\n - Possuir proficiência no idioma do curso de destino*.\n\n - Para se candidatar procure por Processo de Candidatura em nosso chat!"]
+  },
+  { "tag": "Processo de Candidatura",
+  "patterns":["Processo de Candidatura","Quero me candidatar para um intercambio","Como me candidatar para um intercambio"],
+  "responses": ["Antes de iniciar a candidatura, o interessado deverá certificar-se que a instituição de destino oferece cursos na sua área de estudos e confirmar a disponibilidade de vagas.\n\n  Uma vez selecionada a instituição para a qual irá se postular, o estudante deverá apresentar todos documentos de candidatura listados abaixo à Coordenadoria de Relações Internacionais do Centro Universitário FEI, localizada no Prédio D - térreo - sala 07:\n\n  - Formulário de Inscrição FEI;\n\n - Ficha de Inscrição da Instituição de destino;\n\n - Cópia da página de identificação do passaporte, com validade para todo o período de estudos no exterior;\n\n - Histórico escolar (em português ou inglês, dependendo do destino);\n\n - Carta de Apresentação/Motivação (no idioma da universidade anfitriã);\n\n - Currículo (no idioma da universidade anfitriã).\n\n - 2 fotos 3x4;\n"]
+  },
+  { "tag": "Bolsa de estudos",
+  "patterns":["Bolsa de estudos","Quero me candidatar para uma Bolsa de estudos","Como me candidatar para um Bolsa de estudos","Como ganho uma Bolsa de estudos","Santander universidades"],
+  "responses": ["O Centro Universitário FEI oferece, em parceria com a Divisão Global do Santander Universidades, bolsas de estudos no exterior quem permitem a formação discente internacional em universidades estrangeiras conveniadas."]
+  }
+
+
+
+
+
+
+]
+}
